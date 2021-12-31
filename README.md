@@ -1,0 +1,2 @@
+# verbose-memory
+study material
